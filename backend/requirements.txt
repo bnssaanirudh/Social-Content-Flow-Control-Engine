@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+networkx
+numpy
+scikit-fuzzy
+torch
+torch-geometric
+pygad
